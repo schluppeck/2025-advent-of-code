@@ -4,4 +4,4 @@
 
 Sorting lists, taking differences, and summing.
 
-[Matlab code / solution](solution.m) for the first part of that problem.
+[Matlab code / solution](solution-txt) for the first part of that problem.
