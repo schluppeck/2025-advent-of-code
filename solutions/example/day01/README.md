@@ -4,4 +4,8 @@
 
 Sorting lists, taking differences, and summing.
 
-[Matlab code / solution](solution-txt) for the first part of that problem.
+[Matlab code / solution](solution.m) for the first part of that problem.
+
+```matlab
+distanceFinder = @(A) sum(abs(diff(sort(A),[],2)));
+```
