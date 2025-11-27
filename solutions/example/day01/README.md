@@ -4,7 +4,7 @@ The [Problem description](https://adventofcode.com/2024/day/1) explains the task
 
 You need to think about `sort`ing lists, taking `diff`erences, and `sum`ming.
 
-Write down a plan before coding - like a kind of essay plans - what are the steps you need to take to solve the problem? You can use `%` to write comments in matlab code
+Write down a plan before coding - like a kind of an essay plan - what are the steps you need to take to solve the problem? You can use `%` to write comments in matlab code
 
 ```matlab
 %% this is a comment (for humans, ignored by matlab)
@@ -28,3 +28,6 @@ distanceFinder = @(A) sum(abs(diff(sort(A),[],2)));
 
 </p>
 </details>
+
+
+---
