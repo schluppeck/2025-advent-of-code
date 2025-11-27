@@ -19,10 +19,12 @@ Write down a plan before coding - like a kind of essay plans - what are the step
 <details>
 <summary>Matlab solution (no peeking!)</summary>
 <p>
+
 <a href="solution.m" target="_new">Matlab code / solution</a> for the first part of that problem.
 
-```matlab
+<code>
 distanceFinder = @(A) sum(abs(diff(sort(A),[],2)));
-```
+</code>
+
 </p>
 </details>
