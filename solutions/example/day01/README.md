@@ -29,5 +29,12 @@ distanceFinder = @(A) sum(abs(diff(sort(A),[],2)));
 </p>
 </details>
 
-
 ---
+
+## Walkthrough on Youtube
+
+Here is a step-by-step video of how to solve problem. No sound at the start... but some commentary on the one-linear solution at the end.
+
+[![Walkthrough video](https://img.youtube.com/vi/FlyLguwogO0/0.jpg)](https://youtu.be/FlyLguwogO0)
+
+https://youtu.be/FlyLguwogO0
