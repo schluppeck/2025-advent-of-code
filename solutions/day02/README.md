@@ -37,7 +37,7 @@ chunks = [SubString(str,1 + (i-1)*iChunk, i*iChunk) for i = 1:nChunks]
 
 - if these chunks are all the same, you can check with `unique(chunks)` - if the length of this is 1, then they are all the same! Neat trick.
 
-- This was quite hard because of the size of the numbers and building the ranges. I'd say not a beginner problem at al...
+- This was quite hard because of the size of the numbers and building the ranges. I'd say not a beginner problem at all ...
 
 <center>
 <img src="day-02.gif" width="80%" alt="Day 2 animated gif">
