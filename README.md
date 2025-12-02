@@ -21,6 +21,7 @@ General idea is to have a folder per day with solutions in Matlab scripts/functi
 
 - [Day 1](solutions/day01/README.md)
 - [Day 2](solutions/day02/README.md) - not easy!
+
 <!-- 
 - [Day 3](solutions/day03/README.md)
 - [Day 4](solutions/day04/README.md)
@@ -32,7 +33,6 @@ General idea is to have a folder per day with solutions in Matlab scripts/functi
 - [Day 10](solutions/day10/README.md)
 - [Day 11](solutions/day11/README.md)
 - [Day 12](solutions/day12/README.md)
-
 !-->
 
 
