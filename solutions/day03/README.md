@@ -22,6 +22,7 @@
 
 <center>
 <img src="animated.gif" width="80%" alt="Day 3 animated gif">
+<br>
 <caption>Animated gif showing the search for the largest 12-digit number in s 100-digit strings.</caption>
 </center>
 
