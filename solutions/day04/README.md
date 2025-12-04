@@ -20,7 +20,7 @@ The elves have stacked the toilet rolls (@) amongst other empty slots (.) in a s
 To get to them, they need space around them (<4 neighbouring rolls @)
 
 <center>
-<img src="toiletrolls.png" width="80%" alt="Day 4">
+<img src="toiletrolls.png" width="40%" alt="Day 4">
 <br>
 <caption>Toilet roll neighbour count from 0 (cold) to 8 (hot)</caption>
 </center>
@@ -45,7 +45,7 @@ The second problem is similar, but now you have to iterate the process described
 - there are no `do... while` loops in Matlab, but you can start with a `while true` and then `break` when the condition (e.g. `no_more_rolls_removed`) is met
 
 <center>
-<img src="animated.gif" width="80%" alt="Day 4 animated gif">
+<img src="animated.gif" width="30%" alt="Day 4 animated gif">
 <br>
 <caption>Animated gif showing the iterative removal of toilet rolls by elves ;)</caption>
 </center>
