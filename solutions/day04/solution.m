@@ -31,7 +31,9 @@ nh_kernel = [1,1,1; 1 0 1; 1 1 1];
 
 neighbours = conv2(toiletRolls, nh_kernel, "same");
 
-figure()
+f_ = figure()
+
+f_.InvertHardcopy = false
 imagesc(neighbours)
 caxis([0 8])
 colormap(hot)
@@ -47,3 +49,5 @@ result = nnz(bothConditions);
 
 %% result
 fprintf('\n\nresult is: %d\n', result)
+
+exportgraphics(gca,'toiletrolls.png','BackgroundColor','none')
