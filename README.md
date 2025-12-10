@@ -26,10 +26,10 @@ General idea is to have a folder per day with solutions in Matlab scripts/functi
 - [Day 5](solutions/day05/README.md) - julia `BigInt` support needed again...
 - [Day 6](solutions/day06/README.md) - cephalopod maths!
 - [Day 7](solutions/day07/README.md) - part 1 ok - in part 2 I was defeated by my lack of `dynamic programming` foo!
+- [Day 8](solutions/day08/README.md) - defeated something 😀
+- [Day 9](solutions/day09/README.md) - Elves and red/green tiles. Part 1 straightforward, part 2 not solved.
 
 <!-- 
-- [Day 8](solutions/day08/README.md)
-- [Day 9](solutions/day09/README.md)
 - [Day 10](solutions/day10/README.md)
 - [Day 11](solutions/day11/README.md)
 - [Day 12](solutions/day12/README.md)
